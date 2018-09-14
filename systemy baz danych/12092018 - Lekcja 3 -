@@ -1,0 +1,11 @@
+
+
+
+
+Każdy rekord ( z wyjątkiem korzenia) musi być powiązany z rekordem nadrzędnym właściwego typu; a więc np. usunięcie rekordu 
+
+
+
+
+
+Określenie typu kolekcji polega na podaniu typu rekordu - "właściciela" i typu rekordów-elementów kolekcji
